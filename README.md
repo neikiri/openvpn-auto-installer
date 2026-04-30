@@ -118,6 +118,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **neikiri**
 GitHub: https://github.com/neikiri
 
+---
+
 ## 📬 Contact
 
-- 📧 Email: dev@neiki.eu
+📧 Email: dev@neiki.eu
