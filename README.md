@@ -1,10 +1,7 @@
-
-<p align="center">
-  <img src="images/logo.png" width="32" style="vertical-align: middle; margin-right: 8px;">
-  <span style="font-size: 32px; font-weight: bold; vertical-align: middle;">
-    OpenVPN Auto Installer
-  </span>
-</p>
+<h1 align="center">
+  <img src="images/logo.png" width="32" style="vertical-align: middle;">
+  OpenVPN Auto Installer
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FFCC33?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
