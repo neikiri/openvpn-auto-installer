@@ -123,4 +123,4 @@ GitHub: https://github.com/neikiri
 
 ## 📬 Contact
 
-- 📧 Email: dev@neiki.eu
+- 📧 Email: neikiri@neikiri.dev

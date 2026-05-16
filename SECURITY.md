@@ -17,7 +17,7 @@ If you discover a security vulnerability, please **do not open a public issue**.
 
 Instead, report it responsibly:
 
-* 📧 Email: **[dev@neiki.eu](mailto:dev@neiki.eu)** *(replace this)*
+* 📧 Email: **[neikiri@neikiri.dev](mailto:neikiri@neikiri.dev)** *(replace this)*
 * 💬 Or open a **private GitHub security advisory**
 
 ---
